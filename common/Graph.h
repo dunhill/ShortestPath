@@ -41,7 +41,6 @@ private:
 class Graph
 {
 public:
-    Graph();
     std::set< Vertex > vertexes() const
     {
         return m_vertexes;

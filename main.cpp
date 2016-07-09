@@ -1,7 +1,7 @@
 #include <iostream>
 
-#include "common/Graph.h"
-#include "algo/BellmanFord.h"
+#include <common/Graph.h>
+#include <algo/BellmanFord.h>
 
 int main()
 {
